@@ -45,6 +45,8 @@ public:
         return nullptr;
     }
 
+    void FindAndRemoveWidgetFromLayer(UCommonActivatableWidget *ActivatableWidget);
+
     UCommonActivatableWidgetContainerBase *GetLayerWidget(FGameplayTag LayerName);
 
 protected:

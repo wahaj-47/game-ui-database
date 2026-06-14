@@ -19,6 +19,15 @@ void UGameRootLayout::RegisterLayer(FGameplayTag LayerTag, UCommonActivatableWid
     }
 }
 
+void UGameRootLayout::FindAndRemoveWidgetFromLayer(UCommonActivatableWidget *ActivatableWidget)
+{
+    // We're not sure what layer the widget is on so go searching.
+    for (const auto &LayerKVP : Layers)
+    {
+        LayerKVP.Value->RemoveWidget(*ActivatableWidget);
+    }
+}
+
 UCommonActivatableWidgetContainerBase *UGameRootLayout::GetLayerWidget(FGameplayTag LayerName)
 {
     return Layers.FindRef(LayerName);

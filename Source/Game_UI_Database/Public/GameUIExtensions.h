@@ -40,4 +40,7 @@ public:
     static UCommonActivatableWidget *PushContentToLayer_ForPlayer(
         const ULocalPlayer *LocalPlayer, UPARAM(meta = (Categories = "UI.Layer")) FGameplayTag LayerName,
         UPARAM(meta = (AllowAbstract = false)) TSubclassOf<UCommonActivatableWidget> WidgetClass);
+
+    UFUNCTION(BlueprintCallable, BlueprintCosmetic, Category = "Global UI Extensions")
+    static void PopContentFromLayer(UCommonActivatableWidget *ActivatableWidget);
 };

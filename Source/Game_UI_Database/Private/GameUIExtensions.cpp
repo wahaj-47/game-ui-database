@@ -66,3 +66,23 @@ UGameUIExtensions::PushContentToLayer_ForPlayer(const ULocalPlayer *LocalPlayer,
 
     return nullptr;
 }
+
+void UGameUIExtensions::PopContentFromLayer(UCommonActivatableWidget *ActivatableWidget)
+{
+    if (!ActivatableWidget)
+    {
+        // Ignore request to pop an already deleted widget
+        return;
+    }
+
+    if (const ULocalPlayer *LocalPlayer = ActivatableWidget->GetOwningLocalPlayer())
+    {
+        if (const UGameUIManagerSubsystem *UIManager = LocalPlayer->GetSubsystem<UGameUIManagerSubsystem>())
+        {
+            if (UGameRootLayout *RootLayout = UIManager->GetRootLayout())
+            {
+                RootLayout->FindAndRemoveWidgetFromLayer(ActivatableWidget);
+            }
+        }
+    }
+}
