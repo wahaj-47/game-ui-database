@@ -5,6 +5,7 @@
 #include "CommonInputSubsystem.h"
 #include "CommonInputTypeEnum.h"
 #include "GameRootLayout.h"
+#include "GameUIManagerSubsystem.h"
 
 ECommonInputType UGameUIExtensions::GetOwningPlayerInputType(const UUserWidget *WidgetContextObject)
 {
@@ -44,4 +45,24 @@ bool UGameUIExtensions::IsOwningPlayerUsingGamepad(const UUserWidget *WidgetCont
         }
     }
     return false;
+}
+
+UCommonActivatableWidget *
+UGameUIExtensions::PushContentToLayer_ForPlayer(const ULocalPlayer *LocalPlayer, FGameplayTag LayerName,
+                                                TSubclassOf<UCommonActivatableWidget> WidgetClass)
+{
+    if (!ensure(LocalPlayer) || !ensure(WidgetClass != nullptr))
+    {
+        return nullptr;
+    }
+
+    if (UGameUIManagerSubsystem *UIManager = LocalPlayer->GetSubsystem<UGameUIManagerSubsystem>())
+    {
+        if (UGameRootLayout *RootLayout = UIManager->GetRootLayout())
+        {
+            return RootLayout->PushWidgetToLayerStack(LayerName, WidgetClass);
+        }
+    }
+
+    return nullptr;
 }

@@ -10,6 +10,8 @@
 enum class ECommonInputType : uint8;
 
 class UUserWidget;
+class UCommonActivatableWidget;
+class ULocalPlayer;
 
 /**
  *
@@ -33,4 +35,9 @@ public:
     UFUNCTION(BlueprintPure, BlueprintCosmetic, Category = "Global UI Extensions",
               meta = (WorldContext = "WidgetContextObject"))
     static bool IsOwningPlayerUsingGamepad(const UUserWidget *WidgetContextObject);
+
+    UFUNCTION(BlueprintCallable, BlueprintCosmetic, Category = "Global UI Extensions")
+    static UCommonActivatableWidget *PushContentToLayer_ForPlayer(
+        const ULocalPlayer *LocalPlayer, UPARAM(meta = (Categories = "UI.Layer")) FGameplayTag LayerName,
+        UPARAM(meta = (AllowAbstract = false)) TSubclassOf<UCommonActivatableWidget> WidgetClass);
 };
