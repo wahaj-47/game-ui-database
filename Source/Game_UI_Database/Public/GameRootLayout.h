@@ -54,7 +54,13 @@ protected:
     void RegisterLayer(UPARAM(meta = (Categories = "UI.Layer")) FGameplayTag LayerTag,
                        UCommonActivatableWidgetContainerBase *LayerWidget);
 
+    void OnWidgetStackTransitioning(UCommonActivatableWidgetContainerBase *Widget, bool bIsTransitioning);
+
 private:
     UPROPERTY(Transient, meta = (Categories = "UI.Layer"))
     TMap<FGameplayTag, TObjectPtr<UCommonActivatableWidgetContainerBase>> Layers;
+
+    // Lets us keep track of all suspended input tokens so that multiple async UIs can be loading and we correctly
+    // suspend for the duration of all of them.
+    TArray<FName> SuspendInputTokens;
 };
