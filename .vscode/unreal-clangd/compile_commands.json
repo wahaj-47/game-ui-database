@@ -48,6 +48,14 @@
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameUIExtensions.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
         "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameUIManagerSubsystem.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
@@ -65,6 +73,14 @@
     },
     {
         "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameRootLayout.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameUIExtensions.h",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
             "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
