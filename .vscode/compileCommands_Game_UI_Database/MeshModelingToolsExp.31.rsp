@@ -1,4 +1,5 @@
 /FI "C:\Program Files\Epic Games\UE_5.7\Engine\Plugins\Experimental\MeshModelingToolsetExp\Intermediate\Build\Win64\x64\UnrealEditor\Development\MeshModelingToolsExp\Definitions.MeshModelingToolsExp.h" 
+/FI "C:\Work\Projects\Unreal_Projects\Game_UI_Database\Intermediate\Build\Win64\x64\Game_UI_DatabaseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h" 
 /I "C:\Program Files\Epic Games\UE_5.7\Engine\Source" 
 /I "C:\Program Files\Epic Games\UE_5.7\Engine\Plugins\Experimental\MeshModelingToolsetExp\Source\MeshModelingToolsExp\Private" 
 /I "C:\Program Files\Epic Games\UE_5.7\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT" 
