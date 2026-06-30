@@ -1,0 +1,46 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Bootstrap",
+	"Description": "",
+	"Category": "Gameplay",
+	"CreatedBy": "Wahaj Hussain",
+	"CreatedByURL": "https://github.com/wahaj-47",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Bootstrap",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "BootstrapEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "CommonGame",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "CommonUser",
+			"Enabled": true,
+			"Activate": true
+		},
+		{
+			"Name": "ModularGameplayActors",
+			"Enabled": true,
+			"Activate": true
+		}
+	]
+}

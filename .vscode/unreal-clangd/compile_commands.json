@@ -1,114 +1,602 @@
 [
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\GameUIDatabaseGameplayTags.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\BootstrapEditor\\BootstrapEditor.Build.cs",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\BootstrapEditor.56.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\GameUIDatabaseGameplayTags.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\BootstrapEditor\\Private\\BootstrapEditor.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\BootstrapEditor.56.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Game_UI_Database.Build.cs",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\BootstrapEditor\\Public\\BootstrapEditor.h",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\BootstrapEditor.56.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Game_UI_Database.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Bootstrap.Build.cs",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Game_UI_Database.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Private\\Bootstrap.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameRootLayout.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Private\\BootstrapMessagingSubsystem.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameUIExtensions.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Private\\BootstrapUIManagerSubsystem.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameUIManagerSubsystem.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Public\\Bootstrap.h",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Private\\GameUISettings.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Public\\BootstrapMessagingSubsystem.h",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameRootLayout.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\Bootstrap\\Source\\Bootstrap\\Public\\BootstrapUIManagerSubsystem.h",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Bootstrap.55.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameUIExtensions.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\CommonGame.Build.cs",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameUIManagerSubsystem.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\Actions\\AsyncAction_CreateWidgetAsync.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\Source\\Game_UI_Database\\Public\\GameUISettings.h",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\Actions\\AsyncAction_PushContentToLayerForPlayer.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\Actions\\AsyncAction_ShowConfirmation.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonGameInstance.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonGameModule.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonLocalPlayer.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonPlayerController.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonPlayerInputKey.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\CommonUIExtensions.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\GameUIManagerSubsystem.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\GameUIPolicy.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\LogCommonGame.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\LogCommonGame.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\Messaging\\CommonGameDialog.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\Messaging\\CommonMessagingSubsystem.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Private\\PrimaryGameLayout.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\Actions\\AsyncAction_CreateWidgetAsync.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\Actions\\AsyncAction_PushContentToLayerForPlayer.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\Actions\\AsyncAction_ShowConfirmation.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\CommonGameInstance.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\CommonLocalPlayer.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\CommonPlayerController.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\CommonPlayerInputKey.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\CommonUIExtensions.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\GameUIManagerSubsystem.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\GameUIPolicy.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\Messaging\\CommonGameDialog.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\Messaging\\CommonMessagingSubsystem.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonGame\\Source\\Public\\PrimaryGameLayout.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\Source.57.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\CommonUser.Build.cs",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\AsyncAction_CommonUserInitialize.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\CommonSessionSubsystem.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\CommonUserBasicPresence.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\CommonUserModule.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\CommonUserSubsystem.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Private\\CommonUserTypes.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\AsyncAction_CommonUserInitialize.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\CommonSessionSubsystem.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\CommonUserBasicPresence.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\CommonUserModule.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\CommonUserSubsystem.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\CommonUser\\Source\\CommonUser\\Public\\CommonUserTypes.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\CommonUser.58.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\ModularGameplayActors.Build.cs",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularAIController.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularCharacter.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularGameMode.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularGameState.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularGameplayActorsModule.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularPawn.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularPlayerController.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Private\\ModularPlayerState.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularAIController.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularCharacter.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularGameMode.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularGameState.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularPawn.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularPlayerController.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Plugins\\ModularGameplayActors\\Source\\ModularGameplayActors\\Public\\ModularPlayerState.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\ModularGameplayActors.66.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Source\\GameUIDatabase\\GameUIDatabase.Build.cs",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Source\\GameUIDatabase\\GameUIDatabase.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Source\\GameUIDatabase\\GameUIDatabase.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Source\\GameUIDatabase\\GameUIDatabaseGameplayTags.cpp",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
+        ],
+        "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
+    },
+    {
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\Source\\GameUIDatabase\\GameUIDatabaseGameplayTags.h",
+        "arguments": [
+            "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
         ],
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source"
     },
     {
         "directory": "C:\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source",
-        "file": "C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\unreal-clangd\\completionHelper.cpp",
+        "file": "C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\unreal-clangd\\completionHelper.cpp",
         "arguments": [
             "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "@C:\\Work\\Projects\\Unreal_Projects\\Game_UI_Database\\.vscode\\compileCommands_Game_UI_Database\\Game_UI_Database.1.rsp"
+            "@C:\\Work\\Projects\\Unreal_Projects\\GameUIDatabase\\.vscode\\compileCommands_GameUIDatabase\\GameUIDatabase.1.rsp"
         ]
     }
 ]
